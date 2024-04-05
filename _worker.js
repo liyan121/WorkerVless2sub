@@ -21,19 +21,19 @@ let addressesnotls = [
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
 	'time.cloudflare.com:80#优选域名',
-'shopify.com:80#优选域名',
-'time.is:80#优选域名',
-'icook.hk:80#优选域名',
-'icook.tw:80#优选域名',
-'ip.sb:80#优选域名',
-'japan.com:80#优选域名',
-'malaysia.com:80#优选域名',
-'russia.com:80#优选域名',
-'singapore.com:80#优选域名',
-'skk.moe:80#优选域名',
-'www.visa.com:80#优选域名',
-'www.visa.com.sg:80#优选域名',
-'www.visa.com.hk:80#优选域名',
+'shopify.com:80#优选域名'，
+'time.is:80#优选域名'，
+'icook.hk:80#优选域名'，
+'icook.tw:80#优选域名'，
+'ip.sb:80#优选域名'，
+'japan.com:80#优选域名'，
+'malaysia.com:80#优选域名'，
+'russia.com:80#优选域名'，
+'singapore.com:80#优选域名'，
+'skk.moe:80#优选域名'，
+'www.visa.com:80#优选域名'，
+'www.visa.com.sg:80#优选域名'，
+'www.visa.com.hk:80#优选域名'，
 'www.visa.com.tw:80#优选域名',
 'www.visa.co.jp:80#优选域名',
 'www.visakorea.com:80#优选域名',
@@ -68,7 +68,6 @@ let addressesnotls = [
 'edtunnel-dgp.pages.dev:80#优选域名',
 'www.d-555.com:80#优选域名',
 'fbi.gov:80#优选域名',
-
 ];
 
 // 设置优选noTLS地址api接口
